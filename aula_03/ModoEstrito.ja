@@ -1,0 +1,9 @@
+"use strict"
+
+let numero = 10;
+
+console.log("O valor da Variavel numero é: ,numero);
+
+numero = 10;
+
+console.log("O valor da Variavel numero é: ,numero);
